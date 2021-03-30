@@ -47,6 +47,9 @@ export default function Home() {
 
         <SearchAppBar/>
         <div className={classes.tempPromoBlock}><h1><center>Promotions & Introduction of the website</center></h1></div>
+        
+        {/* example using the global.css to set background */}
+        <div id="main-comtainer" style={{height:"200px", width:"100px"}}>some content</div>
 
         <DisplayBloc/>
 

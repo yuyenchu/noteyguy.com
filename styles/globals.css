@@ -48,6 +48,13 @@ a {
   background-image: url('../public/GridPaper.jpg');
 }
 
+#main-comtainer{
+  background-color: gray; /* filling in the uncovered space */
+  background-image: url('../public/TheNoteyGuyIcon.png');
+  background-size: cover;/* options: cover | contain | auto */
+  background-repeat: no-repeat;/* options: repeat | repeat-x | repeat-y | no-repeat */
+}
+
 
 
 
