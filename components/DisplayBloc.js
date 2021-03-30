@@ -17,7 +17,7 @@ export default function DisplayBloc() {
 
   return (
     <>
-      <img src='/public/TheNoteyGuyIcon.png' height='100' width='100' alt='qaq'></img>
+      <img src='TheNoteyGuyIcon.png' height='100' width='100' alt='qaq'></img>
       <p className={classes.titleRec}>hello</p>
     </>
   );
